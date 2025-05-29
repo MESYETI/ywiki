@@ -67,10 +67,13 @@ great for this. The next section is a list of unbloated alternatives that I reco
 #### Window manager
 Tiling (X11)
 - [i3](https://i3wm.org/)
+
 Tiling (Wayland)
 - [sway](https://swaywm.org/)
+
 Floating (X11)
 - [openbox](https://openbox.org/)
+
 Floating (Wayland)
 - [wayfire](https://wayfire.org/) (The cube gimmick can be easily disabled)
 - [hikari](http://hikari.acmelabs.space/)
@@ -95,7 +98,7 @@ ones.
 #### Music player
 - [cmus](https://cmus.github.io/)
 
-#### Online YouTube downloaders
+#### YouTube downloaders
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 #### Screenshot programs
