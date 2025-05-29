@@ -15,7 +15,7 @@ void main(string[] args) {
 		string html = filterMarkdown(
 			readText(e.name)
 				.replace("<```", "<div class=\"codeBox\"><pre><code>")
-				.replace("```>", "</pre></code></div>"),
+				.replace("```>", "</code></pre></div>"),
 			MarkdownFlags.backtickCodeBlocks
 		);
 		string title = e.baseName().stripExtension();
