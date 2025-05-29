@@ -107,3 +107,10 @@ ones.
 
 #### Screen recorders
 - [GPU Screen Recorder](https://git.dec05eba.com/gpu-screen-recorder/about/) (Insanely high performance)
+
+## A large recommendation
+I would recommend that anyone interested in reducing bloat to check out the
+[uxn](https://100r.co/site/uxn.html) virtual machine. Uxn is a 16-bit virtual machine
+with a large collection of GUI software to use. I would recommend using these programs
+with the [uxn11](https://git.sr.ht/~rabbits/uxn11) implementation of the virtual
+machine, as it uses much less memory than the more portable uxnemu.

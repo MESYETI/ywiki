@@ -4,6 +4,7 @@
 - [Page list](/pages.html)
 #### My projects
 - [Callisto](/callisto.html)
+- [Basil Font](/basil-font.html)
 #### Interesting things
 - [Nova](/nova.html)
 #### Miscellaneous
@@ -15,3 +16,8 @@
 - YSL
 - Telnet
 - Intel 4004
+- Framebuffer device
+- x86 real mode
+- Microcontrollers as personal computers
+- Commodore Amiga 500+ project
+- Jupiter ACE
