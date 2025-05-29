@@ -1,4 +1,4 @@
-# The great MESYETI Wiki
+# My personal wiki
 On this wiki, I will write pages about things I find interesting or things I have made,
 or just whatever I'm doing.
 
