@@ -64,6 +64,13 @@ slow system. I have a netbook from 2007 (the fujitsu siemens amilo li 2727) and 
 great for this. The next section is a list of unbloated alternatives that I recommend:
 
 ## Recommended software
+Note: I wrote this list with Linux and other unix-likes and unixes in mind. Not all
+of these pieces of software will work on Windows.
+
+I would recommend that Windows users intending to create an unbloated computer system
+should install a Linux distribution such as Linux Mint. It is bloated but it will help
+to prepare for eventually creating an unbloated system.
+
 #### Window manager
 Tiling (X11)
 - [i3](https://i3wm.org/)
