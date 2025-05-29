@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/ywiki
+ywiki.so
+ywiki.dylib
+ywiki.dll
+ywiki.a
+ywiki.lib
+ywiki-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+dest/*.html
