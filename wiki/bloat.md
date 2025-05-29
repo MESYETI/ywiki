@@ -61,11 +61,46 @@ new ones.
 The main part of creating a less bloated system is finding less bloated alternatives
 to what you already use. You can find the most performant alternatives by using a
 slow system. I have a netbook from 2007 (the fujitsu siemens amilo li 2727) and it works
-great for this. Here are some of the alternative software that I use:
+great for this. The next section is a list of unbloated alternatives that I recommend:
 
-- Operating system: Linux distribution (any without pre-installed bloat is fine)
-- Text editor: micro
-- Image viewer: [tinview](https://git.gay/rei/tinview)
-- Window manager: [wayfire](https://wayfire.org/), I also want to try [hikari](http://hikari.acmelabs.space/)
-- System monitor/task manager: htop
+## Recommended software
+#### Window manager
+Tiling (X11)
+- [i3](https://i3wm.org/)
+Tiling (Wayland)
+- [sway](https://swaywm.org/)
+Floating (X11)
+- [openbox](https://openbox.org/)
+Floating (Wayland)
+- [wayfire](https://wayfire.org/) (The cube gimmick can be easily disabled)
+- [hikari](http://hikari.acmelabs.space/)
 
+#### Desktop environment
+Desktop environments are heavier than window managers but there are some lightweight
+ones.
+
+- [XFCE](https://www.xfce.org/) (Uses GTK)
+- [CDE (Common Desktop Environment)](https://en.wikipedia.org/wiki/Common_Desktop_Environment)
+- [NsCDE](https://github.com/NsCDE/NsCDE) (Modern CDE alternative)
+- [LXDE](https://en.wikipedia.org/wiki/LXDE) (Uses GTK)
+
+#### Text editor
+- [micro](https://micro-editor.github.io/) (very easy to use)
+- [vim](https://www.vim.org/) (difficult to learn)
+
+#### Image viewers
+- [tinview](https://github.com/lordoftrident/tinview)
+- [feh](https://feh.finalrewind.org/)
+
+#### Music player
+- [cmus](https://cmus.github.io/)
+
+#### Online YouTube downloaders
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
+#### Screenshot programs
+- [flameshot](https://flameshot.org/)
+- [grim](https://sr.ht/~emersion/grim/)
+
+#### Screen recorders
+- [GPU Screen Recorder](https://git.dec05eba.com/gpu-screen-recorder/about/) (Insanely high performance)
