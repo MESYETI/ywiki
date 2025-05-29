@@ -24,7 +24,7 @@ your computer is getting slower. You see your computing device appear slower and
 it's time to get rid of it and buy a new one.
 
 This slowdown is not a problem with the hardware. Software is becoming more and more
-bloated, making it more slower on "older" devices. Computers are getting CPUs that
+bloated, making it slower on "older" devices. Computers are getting CPUs that
 are more and more powerful, when they don't even need to. There is so much lightweight
 software out there that doesn't aim to waste your resources.
 
