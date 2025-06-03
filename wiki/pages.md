@@ -10,6 +10,8 @@
 #### Miscellaneous
 - [Bloat](/bloat.html)
 - [Personal wiki](/personal-wiki.html)
+#### Files
+- [Museum](/museum.html)
 
 # Pages you can expect to see here in the future
 - Ed

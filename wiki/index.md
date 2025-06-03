@@ -18,3 +18,10 @@ For Gemini and Gopher fans, I plan on eventually putting my wiki on those protoc
 This wiki and its wiki generator software are both released to the public domain.
 
 See the GitHub: <https://github.com/mesyeti/ywiki>
+
+## Buttons
+<center>
+	<a href="https://zptr.cc/"><img src=" https://zptr.cc/88x31/webring/zeroptr.png"></a>
+	<a href="https://gustavscorner.neocities.org/"><img src="https://gustavscorner.neocities.org/My%20button.png" alt="A guy in Blue with a gradient in the background with text saying Gus" width="88" height="31"></a>
+   	<br><a href="https://splaatandfriends.neocities.org/HomePage"><img src="https://splaatandfriends.neocities.org/buttons/one.gif" width="90" height="30"></a>
+</center>
